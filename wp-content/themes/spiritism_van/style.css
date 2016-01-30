@@ -9,3 +9,41 @@
  Tags:         black, green, white, light, dark, two-columns, three-columns, left-sidebar, right-sidebar, fixed-layout, responsive-layout, custom-background, custom-header, custom-menu, editor-style, featured-images, flexible-header, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, translation-ready, accessibility-ready, responsive-layout, infinite-scroll, post-slider, design, food, journal, magazine, news, photography, portfolio, clean, contemporary, dark, elegant, modern, professional, sophisticated
  Text Domain:  twenty-fourteen-child
 */
+
+site,
+.site-header {
+ max-width: 100%;
+}
+
+.site-content .entry-header,
+.site-content .entry-content,
+.site-content .entry-summary,
+.site-content .entry-meta, .page-content {
+ /* Original max-width: 474px */
+ max-width: 80%;
+
+}
+
+.site:before {
+    width: 0;
+}
+
+#secondary {
+  display: none;
+}
+#content {
+  margin-left:0px;
+}
+
+.search-field{
+	display: none;
+}
+
+.textwidget{
+	text-align: center;
+}
+
+i.fa-facebook-square{
+	font-size: 25px;
+	color: blue;
+}
