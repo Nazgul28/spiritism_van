@@ -40,7 +40,8 @@ site,
 }
 
 .textwidget{
-	text-align: center;
+	text-align: left;
+	color: blue;
 }
 
 i.fa-facebook-square{
@@ -51,3 +52,27 @@ i.fa-facebook-square{
 #transposh-5 input {
 	display: none;
 }
+
+#search-2 {
+	margin: 0px;
+}
+
+
+.entry-title{
+
+	display: none;
+}
+
+.edit-link{
+	display: none;
+}
+
+.post-edit-link{
+	display: none;
+}
+
+
+
+
+
+
