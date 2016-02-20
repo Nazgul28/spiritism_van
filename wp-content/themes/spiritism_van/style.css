@@ -57,11 +57,18 @@ i.fa-facebook-square{
 	margin: 0px;
 }
 
-
-/*.entry-title{
-
+.archive-header{
 	display: none;
-}*/
+}
+.entry-title{
+font-size: 22px;
+color: #E8C733;
+
+}
+
+.entry-title a{
+	color: #E6077A;
+}
 
 .edit-link{
 	display: none;
@@ -71,7 +78,10 @@ i.fa-facebook-square{
 	display: none;
 }
 
-
+/*.entry-content{
+	padding-right: 0px;
+	padding-left: 0px;
+}*/
 
 
 
