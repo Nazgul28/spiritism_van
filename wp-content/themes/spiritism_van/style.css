@@ -78,11 +78,17 @@ color: #E8C733;
 	display: none;
 }
 
+.site-info{
+	text-align: center;
+}
 /*.entry-content{
 	padding-right: 0px;
 	padding-left: 0px;
 }*/
 
-
+.face{
+	text-align: center;
+	padding-top: 20px;
+}
 
 
